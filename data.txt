@@ -1,0 +1,3041 @@
+<ol class="artdeco-list background-color-white _border-search-results_1igybl">
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:8498">
+                            <input class="small-input" id="multi-selector-checkbox-ember6008" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:8498" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6008" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir FEMSA a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6043" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6044" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="é-mT³H«±,yVâI" data-control-name="view_company_via_result_image" href="/sales/company/8498?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6045" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHb4km5BnByTA/company-logo_100_100/0/1635120217153?e=2147483647&amp;v=beta&amp;t=t-tUgycqRv_Opd333tuJU3oHG67gCKDivldKqIEXSoc" loading="lazy" alt="FEMSA" id="ember6046" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6047" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6048" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="é-mT³H«±,yVâI" data-control-name="view_company_via_result_name" href="/sales/company/8498?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6049" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">FEMSA</a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6050" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      Más de 10.001 empleados
+
+<!---->    </div>
+    <div id="ember6051" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">FEMSA es una empresa que gen<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="first-connections">
+      <ul tabindex="0" id="ember6052" class="artdeco-entity-pile artdeco-entity-pile--stacked ember-view pl2">  <li class="artdeco-entity-pile__entity artdeco-entity-pile__entity--1 " data-ember-action="" data-ember-action-6053="6053">
+
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGNhp9iJFGoOg/profile-displayphoto-shrink_100_100/0/1611948081752?e=1654128000&amp;v=beta&amp;t=x-_O2Syv6MeV_YfO9rP7sff-92c4RGaE7wXehd7OnJ4" loading="lazy" alt="" id="ember6054" class="lazy-image ember-view artdeco-entity-pile__image artdeco-entity-pile__image--circle artdeco-entity-pile__image--1" data-anonymize="headshot-photo" data-test-search-highlight="face-pile-image">
+
+  </li>
+  <li class="artdeco-entity-pile__entity artdeco-entity-pile__entity--1 " data-ember-action="" data-ember-action-6055="6055">
+
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHDoB9nvhLcTg/profile-displayphoto-shrink_100_100/0/1569870202900?e=2147483647&amp;v=beta&amp;t=zMTDJvgMyHqt3EBnle8C1R9WstWdM-FELK8DMLSLLeI" loading="lazy" alt="" id="ember6056" class="lazy-image ember-view artdeco-entity-pile__image artdeco-entity-pile__image--circle artdeco-entity-pile__image--1" data-anonymize="headshot-photo" data-test-search-highlight="face-pile-image">
+
+  </li>
+  <li class="artdeco-entity-pile__entity artdeco-entity-pile__entity--1 " data-ember-action="" data-ember-action-6057="6057">
+
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQF5f5e783-gQw/profile-displayphoto-shrink_100_100/0/1646850173977?e=1654128000&amp;v=beta&amp;t=i9KJfp_JX-l_SqO3Ppc6lSBA-wBjCj_SBfjIttJMYlc" loading="lazy" alt="" id="ember6058" class="lazy-image ember-view artdeco-entity-pile__image artdeco-entity-pile__image--circle artdeco-entity-pile__image--1" data-anonymize="headshot-photo" data-test-search-highlight="face-pile-image">
+
+  </li>
+<!----></ul>
+
+
+
+<span tabindex="-1" id="ember6059" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-bottom ember-view">
+  <button aria-expanded="false" aria-controls="artdeco-hoverable-result-highlight-content" aria-describedby="artdeco-hoverable-result-highlight-content" data-test-result-highlight="trigger" class="artdeco-button artdeco-button--tertiary artdeco-button--0 artdeco-button--muted ml1" aria-label="Ver contactos de 1er grado en FEMSA" type="button">
+
+        3 contactos
+
+  </button>
+</span>
+
+    </li>
+
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="senior-leadership-change">
+
+
+<span tabindex="-1" id="ember6060" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-bottom ember-view">
+  <button aria-expanded="false" aria-controls="artdeco-hoverable-result-highlight-content" aria-describedby="artdeco-hoverable-result-highlight-content" data-test-result-highlight="trigger" class="artdeco-button artdeco-button--tertiary artdeco-button--0 artdeco-button--muted" aria-label="Ver cambios en la directiva de FEMSA en los últimos 3 meses" type="button">
+
+        3 cambios en la directiva
+
+  </button>
+</span>
+
+    </li>
+
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A8498%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6061" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en FEMSA">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6062" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6063" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6064" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6065" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6066" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6067" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:84511635">
+                            <input class="small-input" id="multi-selector-checkbox-ember6009" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:84511635" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6009" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir COLORCEL a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6068" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6069" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="	æ#EÇoqOaD" data-control-name="view_company_via_result_image" href="/sales/company/84511635?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6070" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQERvomZCVedWw/company-logo_100_100/0/1648682873905?e=1656547200&amp;v=beta&amp;t=Zz1CBVZSBBYZNbEGb6Vj-EDM5T8-W-iKpPWeF6AzOu0" loading="lazy" alt="COLORCEL" id="ember6071" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6072" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6073" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="	æ#EÇoqOaD" data-control-name="view_company_via_result_name" href="/sales/company/84511635?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6074" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          COLORCEL
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6075" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 501 a 1.000 empleados
+
+<!---->    </div>
+    <div id="ember6076" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;"><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Colorcel</span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A84511635%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6077" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en COLORCEL">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6078" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6079" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6080" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6081" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6082" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6083" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:521200">
+                            <input class="small-input" id="multi-selector-checkbox-ember6010" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:521200" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6010" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Grupo AlEn a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6084" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6085" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="È! «>Gÿ·¡Ø]m>¶" data-control-name="view_company_via_result_image" href="/sales/company/521200?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6086" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQERf36VpxYiEg/company-logo_100_100/0/1641262788379?e=2147483647&amp;v=beta&amp;t=TRwjQFmhyJf-DuKYDPfg7tdZnM68zAD8FVtrmfbAWeA" loading="lazy" alt="Grupo AlEn" id="ember6087" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6088" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6089" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="È! «>Gÿ·¡Ø]m>¶" data-control-name="view_company_via_result_name" href="/sales/company/521200?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6090" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Grupo AlEn
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6091" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6092" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">En Grupo AlEn nuestra Misión es <button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A521200%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6093" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Grupo AlEn">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6094" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6095" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6096" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6097" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6098" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6099" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:65034468">
+                            <input class="small-input" id="multi-selector-checkbox-ember6011" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:65034468" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6011" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Procter &amp; Gamble México a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6100" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6101" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="Ò@kÀB-¶*âÆ?Añà" data-control-name="view_company_via_result_image" href="/sales/company/65034468?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6102" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF5NAcnOLI_tw/company-logo_100_100/0/1585151403222?e=1656547200&amp;v=beta&amp;t=iNSMPddVsDfzjEcobXi6s39yiGxWzY0Np2Lh46ckYwM" loading="lazy" alt="Procter &amp; Gamble México" id="ember6103" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6104" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6105" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="Ò@kÀB-¶*âÆ?Añà" data-control-name="view_company_via_result_name" href="/sales/company/65034468?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6106" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Procter &amp; Gamble México
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6107" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 5.001 a 10.000 empleados
+
+<!---->    </div>
+    <div id="ember6108" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">P&amp;G se fundó hace más de 180 a<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A65034468%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6109" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Procter &amp;amp; Gamble México">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6110" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6111" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6112" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6113" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6114" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6115" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:133862">
+                            <input class="small-input" id="multi-selector-checkbox-ember6012" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:133862" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6012" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Genomma Lab a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6116" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6117" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="Ðü¦<A°¤¼íM " data-control-name="view_company_via_result_image" href="/sales/company/133862?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6118" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFkYzRfQSgt1g/company-logo_100_100/0/1646158957764?e=1656547200&amp;v=beta&amp;t=kzjMaMjSXxzTOb4dr6frGBUF5WjVl7oOu-MT0g1Ukag" loading="lazy" alt="Genomma Lab" id="ember6119" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6120" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6121" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="Ðü¦<A°¤¼íM " data-control-name="view_company_via_result_name" href="/sales/company/133862?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6122" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Genomma Lab
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6123" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 501 a 1.000 empleados
+
+<!---->    </div>
+    <div id="ember6124" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Somos una empresa de origen mexican<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A133862%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6125" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Genomma Lab">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6126" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6127" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6128" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6129" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <a data-control-id="Ðü¦<A°¤¼íM " data-control-name="view_company_via_result_button" href="/sales/company/133862?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6130" class="ember-view artdeco-button artdeco-button--secondary" data-test-account-result-actions="viewCompanyCtaButton">
+        Ver
+      </a>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6131" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:478022">
+                            <input class="small-input" id="multi-selector-checkbox-ember6013" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:478022" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6013" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Comex a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6132" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6133" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="J/^Ùj»Itý2ZH" data-control-name="view_company_via_result_image" href="/sales/company/478022?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6134" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C560BAQG7QYVmfE_HwA/company-logo_100_100/0/1641838407621?e=1656547200&amp;v=beta&amp;t=GPruMHu8Hil0YtY0tJ3kcnaJkNy92c0qpUwdBoLQkSo" loading="lazy" alt="Comex" id="ember6135" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6136" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6137" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="J/^Ùj»Itý2ZH" data-control-name="view_company_via_result_name" href="/sales/company/478022?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6138" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Comex
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6139" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6140" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Comex es una compañía de PPG,<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A478022%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6141" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Comex">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6142" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6143" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6144" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6145" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6146" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6147" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:135816">
+                            <input class="small-input" id="multi-selector-checkbox-ember6014" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:135816" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6014" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Famsa a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6148" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6149" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="çÖÞWîßO¯¾$z­C" data-control-name="view_company_via_result_image" href="/sales/company/135816?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6150" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHAeti6qMc3gw/company-logo_100_100/0/1519899924498?e=2147483647&amp;v=beta&amp;t=hZwETwneBhvWAJTcuo6E5bOE_WPAtvSdkGYE6WkwKPs" loading="lazy" alt="Famsa" id="ember6151" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6152" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6153" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="çÖÞWîßO¯¾$z­C" data-control-name="view_company_via_result_name" href="/sales/company/135816?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6154" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Famsa
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6155" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      Más de 10.001 empleados
+
+<!---->    </div>
+    <div id="ember6156" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Desde nuestra fundación en 197<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A135816%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6157" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Famsa">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6158" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6159" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6160" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6161" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6162" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6163" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:1366702">
+                            <input class="small-input" id="multi-selector-checkbox-ember6015" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:1366702" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6015" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Grupo Urrea a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6164" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6165" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="É¥J_jcL¼&quot;ñçöd" data-control-name="view_company_via_result_image" href="/sales/company/1366702?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6166" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFOg_COO7-VEg/company-logo_100_100/0/1548377162814?e=1656547200&amp;v=beta&amp;t=qe3FnJ9HsISEzK_tpdMg2Kwj3Zh62X_PIi2DQlRAJZM" loading="lazy" alt="Grupo Urrea" id="ember6167" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6168" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6169" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="É¥J_jcL¼&quot;ñçöd" data-control-name="view_company_via_result_name" href="/sales/company/1366702?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6170" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Grupo Urrea
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6171" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6172" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Grupo Urrea, empresa mexicana <button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A1366702%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6173" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Grupo Urrea">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6174" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6175" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6176" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6177" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6178" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6179" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:60999">
+                            <input class="small-input" id="multi-selector-checkbox-ember6016" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:60999" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6016" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Tequila Herradura a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6180" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6181" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id=".¸®ÅiI¦¶<?d¨" data-control-name="view_company_via_result_image" href="/sales/company/60999?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6182" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEWqz_rDF3heQ/company-logo_100_100/0/1578411843160?e=2147483647&amp;v=beta&amp;t=_dOHMfw-gf_FusS7xArU6Dj7PLVVrCc1_az_42Z_1d4" loading="lazy" alt="Tequila Herradura" id="ember6183" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6184" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6185" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id=".¸®ÅiI¦¶<?d¨" data-control-name="view_company_via_result_name" href="/sales/company/60999?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6186" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Tequila Herradura
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6187" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 501 a 1.000 empleados
+
+<!---->    </div>
+    <div id="ember6188" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Born in 1870, Casa Herradura, lo<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A60999%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6189" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Tequila Herradura">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6190" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6191" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6192" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6193" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6194" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6195" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:5494972">
+                            <input class="small-input" id="multi-selector-checkbox-ember6017" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:5494972" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6017" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Verde Valle a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6196" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6197" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="4vpó®Bc¿Uì	@" data-control-name="view_company_via_result_image" href="/sales/company/5494972?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6198" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFRpV6zHufeMA/company-logo_100_100/0/1565192302889?e=1656547200&amp;v=beta&amp;t=GUzY5S-eTNPKS-DXHMFDqxkaKQz-ZU_BWzSh5jna_ME" loading="lazy" alt="Verde Valle" id="ember6199" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6200" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6201" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="4vpó®Bc¿Uì	@" data-control-name="view_company_via_result_name" href="/sales/company/5494972?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6202" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Verde Valle
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6203" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 501 a 1.000 empleados
+
+<!---->    </div>
+    <div id="ember6204" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Desde su nacimiento en 1967, Ve<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A5494972%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6205" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Verde Valle">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6206" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6207" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6208" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6209" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6210" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6211" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:68749670">
+                            <input class="small-input" id="multi-selector-checkbox-ember6018" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:68749670" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6018" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Hershey Mexico a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6212" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6213" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id=" «tz©D¦½éÕ" data-control-name="view_company_via_result_image" href="/sales/company/68749670?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6214" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQH-J3Wi0OhjZA/company-logo_100_100/0/1625144998337?e=2147483647&amp;v=beta&amp;t=24uOx4xMbl3XqZstDIpnqJtcV9y-xQlSSnhteSFXuJ4" loading="lazy" alt="Hershey Mexico" id="ember6215" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6216" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6217" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id=" «tz©D¦½éÕ" data-control-name="view_company_via_result_name" href="/sales/company/68749670?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6218" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Hershey Mexico
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6219" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 5.001 a 10.000 empleados
+
+<!---->    </div>
+    <div id="ember6220" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">The Hershey Company, con sede<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A68749670%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6221" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Hershey Mexico">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6222" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6223" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6224" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6225" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6226" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6227" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:65259398">
+                            <input class="small-input" id="multi-selector-checkbox-ember6019" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:65259398" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6019" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Kimberly-Clark de México a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6228" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6229" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="lRºL´¾V¢2êP" data-control-name="view_company_via_result_image" href="/sales/company/65259398?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6230" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGHEsaVYaeQUg/company-logo_100_100/0/1626304501437?e=1656547200&amp;v=beta&amp;t=yL6H5DBBp1kptrJyTlveE8DX1tJgPGJUGEqYZ7uN-1M" loading="lazy" alt="Kimberly-Clark de México" id="ember6231" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6232" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6233" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="lRºL´¾V¢2êP" data-control-name="view_company_via_result_name" href="/sales/company/65259398?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6234" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Kimberly-Clark de México
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6235" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 5.001 a 10.000 empleados
+
+<!---->    </div>
+    <div id="ember6236" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Con más de 8,000 colaboradore<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A65259398%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6237" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Kimberly-Clark de México">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6238" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6239" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6240" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6241" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6242" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6243" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:1034260">
+                            <input class="small-input" id="multi-selector-checkbox-ember6020" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:1034260" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6020" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Grupo Vasconia SAB a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6244" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6245" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="ªÊÖÐEfs©] Í" data-control-name="view_company_via_result_image" href="/sales/company/1034260?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6246" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGwDAS5R9Ygog/company-logo_100_100/0/1519864516997?e=1656547200&amp;v=beta&amp;t=0BKAE7th2EuvfvnpLKAWN5nQI7FsQ_xAo9qjt5dlyOA" loading="lazy" alt="Grupo Vasconia SAB" id="ember6247" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6248" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6249" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="ªÊÖÐEfs©] Í" data-control-name="view_company_via_result_name" href="/sales/company/1034260?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6250" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Grupo Vasconia SAB
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6251" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6252" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">GRUPO VASCONIA, S.A.B.
+
+Grupo<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A1034260%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6253" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Grupo Vasconia SAB">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6254" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6255" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6256" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6257" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6258" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6259" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:7062132">
+                            <input class="small-input" id="multi-selector-checkbox-ember6021" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:7062132" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6021" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Calorex a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6260" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6261" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="+sëÕJ¦æï_(±5" data-control-name="view_company_via_result_image" href="/sales/company/7062132?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6262" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C560BAQHgK_KCWTdQzQ/company-logo_100_100/0/1615247474492?e=1656547200&amp;v=beta&amp;t=UU5NLii5knm3yqA1Bv8h7ovKaBuE2lWT5Nhk9CJfpkc" loading="lazy" alt="Calorex" id="ember6263" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6264" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6265" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="+sëÕJ¦æï_(±5" data-control-name="view_company_via_result_name" href="/sales/company/7062132?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6266" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Calorex
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6267" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 501 a 1.000 empleados
+
+<!---->    </div>
+    <div id="ember6268" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Calorex, es una empresa de Arist<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A7062132%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6269" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Calorex">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6270" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6271" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6272" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6273" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6274" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6275" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:3547879">
+                            <input class="small-input" id="multi-selector-checkbox-ember6022" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:3547879" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6022" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Pinturas Berel S.A de C.V a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6276" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6277" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="õ%¯4mGØ¦¥°÷)ôé" data-control-name="view_company_via_result_image" href="/sales/company/3547879?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6278" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGXuIcyb6XPvg/company-logo_100_100/0/1519912261210?e=1656547200&amp;v=beta&amp;t=rl7jtBKnuAUk-pi3ROCeflBDW45VmX5VeXQRzHaXsL0" loading="lazy" alt="Pinturas Berel S.A de C.V" id="ember6279" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6280" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6281" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="õ%¯4mGØ¦¥°÷)ôé" data-control-name="view_company_via_result_name" href="/sales/company/3547879?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6282" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Pinturas Berel S.A de C.V
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6283" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 501 a 1.000 empleados
+
+<!---->    </div>
+    <div id="ember6284" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">En 1943 la empresa tomó un nue<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A3547879%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6285" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Pinturas Berel S.A de C.V">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6286" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6287" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6288" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6289" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6290" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6291" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:35766272">
+                            <input class="small-input" id="multi-selector-checkbox-ember6023" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:35766272" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6023" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir FABRICA DE JABON LA CORONA, S.A. DE C.V. a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6292" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6293" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="©N¨ÉjKV¹,á!ën" data-control-name="view_company_via_result_image" href="/sales/company/35766272?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6294" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEoQyBx0EWjgA/company-logo_100_100/0/1620426047383?e=1656547200&amp;v=beta&amp;t=UYY9Sxd72F9AHgjnoH4ftmh8iZ6jVBKzXzhmDcETsng" loading="lazy" alt="FABRICA DE JABON LA CORONA, S.A. DE C.V." id="ember6295" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6296" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6297" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="©N¨ÉjKV¹,á!ën" data-control-name="view_company_via_result_name" href="/sales/company/35766272?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6298" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          FABRICA DE JABON LA CORONA, S.A. DE C.V.
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6299" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6300" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">FABRICA DE JABON LA CORONA<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A35766272%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6301" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en FABRICA DE JABON LA CORONA, S.A. DE C.V.">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6302" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6303" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6304" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6305" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6306" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6307" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:3959226">
+                            <input class="small-input" id="multi-selector-checkbox-ember6024" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:3959226" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6024" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Fábrica de Papel San Francisco S.A. de C.V. a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6308" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6309" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="&amp;øuùL¶â°¹3¼¿" data-control-name="view_company_via_result_image" href="/sales/company/3959226?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6310" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEt9dz-1HRb4Q/company-logo_100_100/0/1519922035211?e=1656547200&amp;v=beta&amp;t=Oeoa8NjK9a7Q3vOX0I-aO0vFJviku5P8bLplfduhViY" loading="lazy" alt="Fábrica de Papel San Francisco S.A. de C.V." id="ember6311" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6312" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6313" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="&amp;øuùL¶â°¹3¼¿" data-control-name="view_company_via_result_name" href="/sales/company/3959226?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6314" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Fábrica de Papel San Francisco S.A. de C.V.
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6315" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6316" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Fábrica De Papel San Francisco S.A. de<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A3959226%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6317" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Fábrica de Papel San Francisco S.A. de C.V.">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6318" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6319" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6320" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6321" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <a data-control-id="&amp;øuùL¶â°¹3¼¿" data-control-name="view_company_via_result_button" href="/sales/company/3959226?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6322" class="ember-view artdeco-button artdeco-button--secondary" data-test-account-result-actions="viewCompanyCtaButton">
+        Ver
+      </a>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6323" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:29022802">
+                            <input class="small-input" id="multi-selector-checkbox-ember6025" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:29022802" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6025" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir GRUPO COMERCIAL CONTROL  a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6324" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6325" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id=":ÕñF@¨N¦55Ül" data-control-name="view_company_via_result_image" href="/sales/company/29022802?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6326" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFzrytIubhF9g/company-logo_100_100/0/1550876145902?e=1656547200&amp;v=beta&amp;t=H9xkGW4BiRdvtL6Tc3UX6ifL6VZQeXDIyAG-0t--3ew" loading="lazy" alt="GRUPO COMERCIAL CONTROL " id="ember6327" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6328" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6329" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id=":ÕñF@¨N¦55Ül" data-control-name="view_company_via_result_name" href="/sales/company/29022802?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6330" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          GRUPO COMERCIAL CONTROL
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6331" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      Más de 10.001 empleados
+
+<!---->    </div>
+    <div id="ember6332" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Somos una empresa 100% mexic<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A29022802%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6333" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en GRUPO COMERCIAL CONTROL ">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6334" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6335" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6336" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6337" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6338" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6339" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:554273">
+                            <input class="small-input" id="multi-selector-checkbox-ember6026" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:554273" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6026" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Inova Mexico a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6340" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6341" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="ÙuüÐSÃCã»öØN" data-control-name="view_company_via_result_image" href="/sales/company/554273?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6342" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQH4VhKFJSHhAA/company-logo_100_100/0/1519901018826?e=2147483647&amp;v=beta&amp;t=8szaMqw7A6ZzoezAE1QRPrTA_ya4USSozPpsn3u1fuk" loading="lazy" alt="Inova Mexico" id="ember6343" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6344" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6345" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="ÙuüÐSÃCã»öØN" data-control-name="view_company_via_result_name" href="/sales/company/554273?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6346" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Inova Mexico
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6347" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6348" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Founded in the early 90's as a m<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A554273%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6349" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Inova Mexico">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6350" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6351" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6352" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6353" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6354" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6355" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:226537">
+                            <input class="small-input" id="multi-selector-checkbox-ember6027" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:226537" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6027" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Grupo CIMSA (merged in Coca-Cola FEMSA) a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6356" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6357" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="kæsIr¬¹LpJ" data-control-name="view_company_via_result_image" href="/sales/company/226537?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6358" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C560BAQF2hfLV-MsrWA/company-logo_100_100/0/1519912414858?e=2147483647&amp;v=beta&amp;t=wiCMu00BLdjzcje0_8Kc1YC-uYTugYP3syt2S7g1doY" loading="lazy" alt="Grupo CIMSA (merged in Coca-Cola FEMSA)" id="ember6359" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6360" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6361" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="kæsIr¬¹LpJ" data-control-name="view_company_via_result_name" href="/sales/company/226537?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6362" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Grupo CIMSA (merged in Coca-Cola FEMSA)
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6363" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 5.001 a 10.000 empleados
+
+<!---->    </div>
+    <div id="ember6364" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Grupo CIMSA is a 100% Mexican<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A226537%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6365" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Grupo CIMSA (merged in Coca-Cola FEMSA)">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6366" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6367" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6368" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6369" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6370" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6371" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:74768986">
+                            <input class="small-input" id="multi-selector-checkbox-ember6028" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:74768986" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6028" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Quala México a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6372" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6373" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="¼<êÙbA1R!ß«C¯å" data-control-name="view_company_via_result_image" href="/sales/company/74768986?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6374" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFciwaXIa6gFQ/company-logo_100_100/0/1628543248921?e=1656547200&amp;v=beta&amp;t=6EXqTnJC1o1ix6OZ7mSibJ8B3Y87ZQxEKGd23sOea4g" loading="lazy" alt="Quala México" id="ember6375" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6376" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6377" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="¼<êÙbA1R!ß«C¯å" data-control-name="view_company_via_result_name" href="/sales/company/74768986?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6378" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Quala México
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6379" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6380" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Somos una empresa multinacion<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A74768986%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6381" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Quala México">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6382" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6383" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6384" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6385" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6386" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6387" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:3758072">
+                            <input class="small-input" id="multi-selector-checkbox-ember6029" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:3758072" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6029" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Grupo P. I. Mabe - Ontex Affiliate a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6388" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6389" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="ô²ÎõEëå{°&nbsp;-¼" data-control-name="view_company_via_result_image" href="/sales/company/3758072?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6390" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEkNPLuyXhY8g/company-logo_100_100/0/1519917503661?e=1656547200&amp;v=beta&amp;t=ewq8HRw1avyxqD6188DpxV204VeCnTik_XFt_qOOvEo" loading="lazy" alt="Grupo P. I. Mabe - Ontex Affiliate" id="ember6391" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6392" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6393" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="ô²ÎõEëå{°&nbsp;-¼" data-control-name="view_company_via_result_name" href="/sales/company/3758072?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6394" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Grupo P. I. Mabe - Ontex Affiliate
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6395" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6396" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">El tiempo ha sido nuestro aliado. <button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A3758072%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6397" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Grupo P. I. Mabe - Ontex Affiliate">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6398" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6399" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6400" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6401" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6402" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6403" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:10175191">
+                            <input class="small-input" id="multi-selector-checkbox-ember6030" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:10175191" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6030" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir FANDELI a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6404" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6405" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="zÑ?5Hðªq/8¿Þc" data-control-name="view_company_via_result_image" href="/sales/company/10175191?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6406" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQFwcZ0h6b0j_w/company-logo_100_100/0/1519906098296?e=1656547200&amp;v=beta&amp;t=sFblPcAu7eQSvyZ4wY0E6MbSgXdzdK0I52LvYkpFG9E" loading="lazy" alt="FANDELI" id="ember6407" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6408" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6409" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="zÑ?5Hðªq/8¿Þc" data-control-name="view_company_via_result_name" href="/sales/company/10175191?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6410" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          FANDELI
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6411" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 501 a 1.000 empleados
+
+<!---->    </div>
+    <div id="ember6412" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Somos el único productor de abr<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A10175191%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6413" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en FANDELI">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6414" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6415" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6416" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6417" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6418" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6419" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:35574970">
+                            <input class="small-input" id="multi-selector-checkbox-ember6031" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:35574970" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6031" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir CINSA MEXICO a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6420" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6421" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="Zdôñ­A»¡ÿ\Æ/" data-control-name="view_company_via_result_image" href="/sales/company/35574970?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6422" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQET53iSQdZ5rQ/company-logo_100_100/0/1550250897523?e=1656547200&amp;v=beta&amp;t=JtX9UDhMH9UCqL9zK0LCam0WruytM3mQlx6pJFV5LHc" loading="lazy" alt="CINSA MEXICO" id="ember6423" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6424" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6425" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="Zdôñ­A»¡ÿ\Æ/" data-control-name="view_company_via_result_name" href="/sales/company/35574970?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6426" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          CINSA MEXICO
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6427" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 1.001 a 5.000 empleados
+
+<!---->    </div>
+    <div id="ember6428" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">CINSA es una empresa Mexicana<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A35574970%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6429" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en CINSA MEXICO">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6430" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6431" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6432" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6433" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6434" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6435" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+                  <li class="artdeco-list__item pl3 pv3">
+                    <div data-test-deferred-did-intersect="">
+
+                      <div class="flex">
+                        <div class="mt4" data-scroll-into-view="urn:li:fs_salesCompany:3185920">
+                            <input class="small-input" id="multi-selector-checkbox-ember6032" data-test-multi-selector="selection-checkbox-urn:li:fs_salesCompany:3185920" type="checkbox">
+  <label class="m0" for="multi-selector-checkbox-ember6032" data-test-multi-selector="selection-label">
+
+                            <span class="a11y-text">
+                              Añadir Sánchez y Martín a la selección
+                            </span>
+
+  </label>
+
+                        </div>
+                          <div class="flex justify-space-between full-width">
+  <div class="flex flex-column">
+    <div class="mb3" data-test-entity-result="entity-container">
+
+<div id="ember6436" class="artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view" data-test-account-result-entity="lockup">
+  <div id="ember6437" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+    <a data-control-id="ÐÈBJF¿áàJ}9" data-control-name="view_company_via_result_image" href="/sales/company/3185920?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6438" class="ember-view mr2 block" data-test-account-result-entity="imageLink" data-anonymize="company-logo">
+      <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEbAfrsx8j3Ng/company-logo_100_100/0/1557332649637?e=1656547200&amp;v=beta&amp;t=JRWN4xURX77RNrrAEaxMN-ozTS4Au5B80Wo9zqU7UBQ" loading="lazy" alt="Sánchez y Martín" id="ember6439" class="lazy-image ember-view" data-test-account-result-entity="image">
+    </a>
+
+</div>
+  <div id="ember6440" class="artdeco-entity-lockup__content ember-view">
+    <div class="flex flex-wrap align-items-center">
+      <div id="ember6441" class="artdeco-entity-lockup__title ember-view">
+        <a data-control-id="ÐÈBJF¿áàJ}9" data-control-name="view_company_via_result_name" href="/sales/company/3185920?_ntb=VEKQezwqSaCtpxDofoDDGw%3D%3D" id="ember6442" class="ember-view link-without-visited-state" data-test-account-result-entity="name" data-anonymize="company-name">
+          Sánchez y Martín
+        </a>
+
+</div>
+
+<!---->    </div>
+
+    <div id="ember6443" class="artdeco-entity-lockup__subtitle ember-view t-14" data-test-account-result-entity="subtitle">
+      Artículos de consumo
+
+      <span aria-hidden="true" class="separator--middot"></span>
+
+      De 501 a 1.000 empleados
+
+<!---->    </div>
+    <div id="ember6444" class="artdeco-entity-lockup__caption ember-view" data-test-account-result-entity="geo">
+      <span class="t-12"></span>
+    </div>
+  </div>
+
+</div>
+
+    </div>
+
+    <div class="ml8 pl1">
+      <dl class="flex flex-column justify-space-between" data-test-entity-result="info-container">
+<!---->
+<div class="inline-flex align-items-baseline" data-test-shared-result-info-item="item">
+  <dt class="t-12 mr1">Acerca de:</dt>
+  <dd class="t-12 t-black--light mb3">
+      <div data-test-line-clamper-component="" style="position: relative; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; -webkit-line-clamp: 1;" data-truncated=""><span style="visibility: hidden; display: none;" aria-hidden="true"></span><span style="display: inline;">Sánchez y Martin inició en Guad<button class="t-12 button--unstyled inline-block t-bold t-black--light" type="button">… ver más</button></span></div>
+  </dd>
+</div>
+
+<!---->      </dl>
+
+
+<ul class="mt-1 ml-2 flex flex-wrap align-items-center list-style-none" data-test-search-highlight-list="">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+    <li class="mt1 inline-flex align-items-center _highlight-separator_1f8de9" data-test-search-highlight-item="view-all-employees">
+      <a data-control-name="search_view_employees_at_company" href="/sales/search/people?query=(filters%3AList((type%3ACURRENT_COMPANY%2Cvalues%3AList((id%3A3185920%2CselectionType%3AINCLUDED)))))&amp;viewAllFilters=true" id="ember6445" class="ember-view artdeco-button artdeco-button--0 artdeco-button--muted artdeco-button--tertiary" aria-label="Ver todos los empleados en Sánchez y Martín">
+        Todos los empleados
+      </a>
+    </li>
+</ul>
+
+    </div>
+  </div>
+  <div class="mt4 mr5" data-test-entity-result="actions-container">
+
+<ul data-test-account-result-actions="actions-list" class="search-account-result__actions inline-flex align-items-center list-style-none">
+<!----><!---->  <li>
+    <div id="ember6446" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      <button aria-expanded="false" aria-label="Abrir el menú despegable para ver más acciones para las cuentas" id="ember6447" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--circle artdeco-button--tertiary artdeco-button--2 mr3" data-test-account-result-actions="overflowDropdownTrigger" type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" width="24" height="24" focusable="false">
+  <path d="M2 10h4v4H2v-4zm8 4h4v-4h-4v4zm8-4v4h4v-4h-4z"></path>
+</svg></li-icon>
+
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember6448" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  </li>
+
+
+<div id="ember6449" class="save-to-list-dropdown  artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view" data-test-list-dropdown="">
+
+      <button aria-expanded="false" id="ember6450" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--primary" data-test-account-result-actions="saveCtaButton" type="button" tabindex="0">
+        Guardar
+
+<!----></button>
+
+<!---->
+    <div tabindex="-1" aria-hidden="false" id="ember6451" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view" data-test-list-dropdown-content=""><!----></div>
+</div>
+
+</ul>
+
+  </div>
+</div>
+
+                      </div>
+<!---->
+</div>
+
+                  </li>
+              </ol>
